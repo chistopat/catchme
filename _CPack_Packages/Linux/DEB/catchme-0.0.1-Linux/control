@@ -1,0 +1,9 @@
+Architecture: amd64
+Description: catchme built using CMake
+Maintainer: chistopat@yandex.ru
+Package: catchme
+Priority: optional
+Section: devel
+Version: 0.0.1
+Installed-Size: 119
+

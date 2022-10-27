@@ -1,0 +1,9 @@
+/home/chistopat/catchme/CMakeFiles/catchme.dir
+/home/chistopat/catchme/CMakeFiles/package.dir
+/home/chistopat/catchme/CMakeFiles/package_source.dir
+/home/chistopat/catchme/CMakeFiles/edit_cache.dir
+/home/chistopat/catchme/CMakeFiles/rebuild_cache.dir
+/home/chistopat/catchme/CMakeFiles/list_install_components.dir
+/home/chistopat/catchme/CMakeFiles/install.dir
+/home/chistopat/catchme/CMakeFiles/install/local.dir
+/home/chistopat/catchme/CMakeFiles/install/strip.dir
